@@ -10,11 +10,25 @@
 
 - [ ] Homebrew
 - [ ] Homebrew Cask
-  - [ ] Chrome
-  - [ ] Alfred
   - [ ] 1 Password
+  - [ ] Alfred
   - [ ] Carbon Copy Cloner
-  - [ ] o
+  - [ ] Chrome
+  - [ ] SketchUp
+  - [ ] AppCleaner
+  - [ ] Asana
+  - [ ] Be Focused Pro
+  - [ ] Brave Browser
+  - [ ] Discord
+  - [ ] Docker
+  - [ ] Firefox
+  - [ ] Miro
+  - [ ] Notion
+  - [ ] Slack
+  - [ ] Speedtest
+  - [ ] Sonos
+  - [ ] Spotify
+  - [ ] Visual Studio Code
 
 
 ## Preferences
