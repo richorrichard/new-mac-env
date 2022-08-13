@@ -1,7 +1,7 @@
 # New Mac Computer setup
 
 ## References
-[macOS Monterey: Setting up a Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
+[macOS Monterey: Setting up a Mac for Development](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)  
 [The Full-Stack PHP Developers’ Setup for macOS Monterey](https://betterprogramming.pub/full-stack-developers-setup-macos-monterey-2de8195d6178)
 
 ## App Store
