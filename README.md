@@ -5,16 +5,16 @@
 [The Full-Stack PHP Developers’ Setup for macOS Monterey](https://betterprogramming.pub/full-stack-developers-setup-macos-monterey-2de8195d6178)
 
 ## App Store
-- [ ] Copy Clip 2
-- [ ] Moom
-- [ ] Harvest
-- [ ] Daisy Disk
-- [ ] Be Focused
+- Copy Clip 2
+- Moom
+- Harvest
+- Daisy Disk
+- Be Focused
 
 ## Manual Installs
-- [ ] SketchUp Pro
-- [ ] Speedtest
-- [ ] Sonos
+- SketchUp Pro
+- Speedtest
+- Sonos
 
 ## Command Line
 
